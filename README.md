@@ -50,4 +50,4 @@ Your first task is to visualize an earthquake data set.
    * visualization with the requirements below
 
 - - -
-[2-BasicMap](Images/5-Info.png)
+ ![2-BasicMap](Images/5-Info.png)
